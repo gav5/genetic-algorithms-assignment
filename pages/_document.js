@@ -1,3 +1,6 @@
+// _document.js
+// by Gavin Smith
+// CS4242 Assignment 03
 import Document, { Head, Main, NextScript } from 'next/document'
 import Link from 'next/link'
 import Router from 'next/router'

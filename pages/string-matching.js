@@ -1,3 +1,6 @@
+// string-matching.js
+// by Gavin Smith
+// CS4242 Assignment 03
 import { Component } from 'react'
 import { Grid, Input, Button, Container, Header, List } from 'semantic-ui-react'
 import { first, isNull, isObject, chunk, truncate } from 'lodash'

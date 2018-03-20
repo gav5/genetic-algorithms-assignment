@@ -1,3 +1,6 @@
+// 8-puzzle.js
+// by Gavin Smith
+// CS4242 Assignment 03
 import { Component } from 'react'
 import { Grid, Header, Button, Container, Menu, List } from 'semantic-ui-react'
 import { first, isNull, isObject, chunk } from 'lodash'

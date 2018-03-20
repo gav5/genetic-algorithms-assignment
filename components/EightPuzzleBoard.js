@@ -1,3 +1,6 @@
+// EightPuzzleBoard.js
+// by Gavin Smith
+// CS4242 Assignment 03
 import { Component } from 'react'
 import { Table, Statistic } from 'semantic-ui-react'
 import { pick, defaults } from 'lodash'

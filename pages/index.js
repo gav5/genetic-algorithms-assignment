@@ -1,3 +1,6 @@
+// index.js
+// by Gavin Smith
+// CS4242 Assignment 03
 import { Component } from 'react'
 import Link from 'next/link'
 import { Container, Header, Button, Grid } from 'semantic-ui-react'
