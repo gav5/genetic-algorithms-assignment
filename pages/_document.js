@@ -8,7 +8,6 @@ class MyDocument extends Document {
     return (
       <html>
         <Head>
-          {/* <link rel="stylesheet" href="/_next/static/style.css" /> */}
           <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css" />
           <link rel="stylesheet" href="/static/app.css" />
         </Head>
@@ -22,4 +21,3 @@ class MyDocument extends Document {
 }
 
 export default MyDocument
-// export default withRouter(MyDocument)
